@@ -14,6 +14,9 @@ Este es un sistema de gestión de inventarios desarrollado en Python utilizando 
 
 *Estructura del Código*
 **main.py**: Contiene la lógica principal de la aplicación y gestiona eventos como agregar, eliminar y modificar productos.
+
 **interfaz.py**: Configura la interfaz gráfica, incluyendo la creación de ventanas, botones, entradas y la tabla de inventario.
+
 **validaciones.py**: Proporciona funciones de validación para asegurarse de que los datos ingresados sean correctos (letras para nombres y números para cantidades y precios).
+
 **inventario.py**: Maneja la lógica relacionada con el inventario, incluyendo agregar, eliminar, modificar productos y calcular el valor total del inventario.
